@@ -48,7 +48,7 @@
        y="47.583504" />
     <text
        xml:space="preserve"
-       style="font-size:3.175px;text-align:end;writing-mode:lr-tb;direction:ltr;text-anchor:end;fill:#000000;stroke-width:0.264583"
+       style="font-family:sans-serif;font-size:3.175px;text-align:end;writing-mode:lr-tb;direction:ltr;text-anchor:end;fill:#000000;stroke-width:0.264583"
        x="21.334557"
        y="59.502472"
        id="text1-1"><tspan
@@ -59,7 +59,7 @@
          y="59.502472">Motor 10</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:3.175px;text-align:end;writing-mode:lr-tb;direction:ltr;text-anchor:end;fill:#000000;stroke-width:0.264583"
+       style="font-family:sans-serif;font-size:3.175px;text-align:end;writing-mode:lr-tb;direction:ltr;text-anchor:end;fill:#000000;stroke-width:0.264583"
        x="21.125267"
        y="53.987144"
        id="text1-1-0-8"><tspan
@@ -70,7 +70,7 @@
          y="53.987144">Atari ST</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:0.264583"
+       style="font-family:sans-serif;font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:0.264583"
        x="81.338478"
        y="53.977844"
        id="text1-1-0-6"><tspan
@@ -81,7 +81,7 @@
          y="53.977844">Drive B</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:3.175px;text-align:end;writing-mode:lr-tb;direction:ltr;text-anchor:end;fill:#000000;stroke-width:0.264583"
+       style="font-family:sans-serif;font-size:3.175px;text-align:end;writing-mode:lr-tb;direction:ltr;text-anchor:end;fill:#000000;stroke-width:0.264583"
        x="21.331459"
        y="62.636475"
        id="text1-1-2"><tspan
@@ -92,7 +92,7 @@
          y="62.636475">DS1 12</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:3.175px;text-align:end;writing-mode:lr-tb;direction:ltr;text-anchor:end;fill:#000000;stroke-width:0.264583"
+       style="font-family:sans-serif;font-size:3.175px;text-align:end;writing-mode:lr-tb;direction:ltr;text-anchor:end;fill:#000000;stroke-width:0.264583"
        x="21.278748"
        y="65.833595"
        id="text1-1-5"><tspan
@@ -106,7 +106,7 @@
        transform="translate(-33.097641,9.3716524)">
       <text
          xml:space="preserve"
-         style="font-size:3.175px;text-align:end;writing-mode:lr-tb;direction:ltr;text-anchor:end;fill:#000000;stroke-width:0.264583"
+         style="font-family:sans-serif;font-size:3.175px;text-align:end;writing-mode:lr-tb;direction:ltr;text-anchor:end;fill:#000000;stroke-width:0.264583"
          x="54.394989"
          y="59.519653"
          id="text1-1-22"><tspan
@@ -118,7 +118,7 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:0.264583"
+       style="font-family:sans-serif;font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:0.264583"
        x="81.217552"
        y="59.502472"
        id="text1-1-54"><tspan
@@ -129,7 +129,7 @@
          y="59.502472">10 -</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:0.264583"
+       style="font-family:sans-serif;font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:0.264583"
        x="81.199944"
        y="62.636475"
        id="text1-1-2-1"><tspan
@@ -140,7 +140,7 @@
          y="62.636475">12 DS1</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:0.264583"
+       style="font-family:sans-serif;font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:0.264583"
        x="81.164665"
        y="65.76738"
        id="text1-1-5-2"><tspan
@@ -154,7 +154,7 @@
        transform="translate(42.536697,9.3716524)">
       <text
          xml:space="preserve"
-         style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:0.264583"
+         style="font-family:sans-serif;font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:0.264583"
          x="38.696724"
          y="59.519653"
          id="text1-1-22-5"><tspan
@@ -187,7 +187,7 @@
        y="75.70742" />
     <text
        xml:space="preserve"
-       style="font-size:3.175px;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke-width:0.264583"
+       style="font-family:sans-serif;font-size:3.175px;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke-width:0.264583"
        x="37.221909"
        y="88.122688"
        id="text1-1-0-3"><tspan
@@ -240,7 +240,7 @@
        y="75.70742" />
     <text
        xml:space="preserve"
-       style="font-size:3.175px;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke-width:0.264583"
+       style="font-family:sans-serif;font-size:3.175px;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke-width:0.264583"
        x="62.398125"
        y="88.122688"
        id="text1-1-0-3-4"><tspan
