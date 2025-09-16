@@ -228,7 +228,10 @@ case, an Atari ST with an integrated floppy (A) and one single external floppy
   center and the right pin with a jumper. Pin 14 is not used, so leave the right
   pin header without a jumper.
 
-  ![Straight Cable with one Floppy](images/straight_cable_one_floppy.svg)
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="images/straight_cable_one_floppy.dark.svg">
+    <img alt="Straight Cable with one Floppy" src="images/straight_cable_one_floppy.light.svg">
+  </picture>
 
 * When you use a twisted cable:
 
@@ -237,7 +240,10 @@ case, an Atari ST with an integrated floppy (A) and one single external floppy
   center pin with a jumper. Pin 14 must be configured as DS1, so on the right
   pin header, you have to connect the left and the center pin with a jumper.
 
-  ![Twisted Cable with one Floppy](images/twisted_cable_one_floppy.svg)
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="images/twisted_cable_one_floppy.dark.svg">
+    <img alt="Twisted Cable with one Floppy" src="images/twisted_cable_one_floppy.light.svg">
+  </picture>
 
 Now, let us have a look at an Atari ST without an integrated floppy and two
 external floppies (when you only attach a single external floppy, use the same
@@ -250,7 +256,10 @@ configuration, and simply leave drive B away):
   header, you have to connect the center and the right pin with a jumper. Pin 14
   is not used, so leave the right pin header without a jumper.
 
-  ![Straight Cable with two Floppies](images/straight_cable_two_floppies.svg)
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="images/straight_cable_two_floppies.dark.svg">
+    <img alt="Straight Cable with two Floppies" src="images/straight_cable_two_floppies.light.svg">
+  </picture>
 
 * When you use a twisted cable:
 
@@ -261,7 +270,10 @@ configuration, and simply leave drive B away):
   the right pin header, you have to connect the center and the right pin with a
   jumper.
 
-  ![Twisted Cable with two Floppies](images/twisted_cable_two_floppies.svg)
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="images/twisted_cable_two_floppies.dark.svg">
+    <img alt="Twisted Cable with two Floppies" src="images/twisted_cable_two_floppies.light.svg">
+  </picture>
 
 > [!NOTE]
 > When you use this adapter to connect actual floppy drives instead of Gotek

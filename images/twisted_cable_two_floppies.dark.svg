@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="97.182281mm"
+   height="44.64064mm"
+   viewBox="0 0 97.182281 44.64064"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (ebf0e940, 2025-05-08)"
+   sodipodi:docname="twisted_cable_two_floppies.dark.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.8943293"
+     inkscape:cx="164.43815"
+     inkscape:cy="130.12521"
+     inkscape:window-width="1680"
+     inkscape:window-height="888"
+     inkscape:window-x="80"
+     inkscape:window-y="118"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-2.8354745,-47.583504)">
+    <rect
+       style="fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.2"
+       id="rect1"
+       width="97.182281"
+       height="44.64064"
+       x="2.8354745"
+       y="47.583504" />
+    <text
+       xml:space="preserve"
+       style="font-family:sans-serif;font-size:3.175px;text-align:end;writing-mode:lr-tb;direction:ltr;text-anchor:end;fill:#ffffff;stroke-width:0.264583"
+       x="21.334557"
+       y="59.502472"
+       id="text1-1"><tspan
+         sodipodi:role="line"
+         id="tspan1-87"
+         style="text-align:end;text-anchor:end;stroke-width:0.264583;fill:#ffffff"
+         x="21.334557"
+         y="59.502472">Motor 10</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-family:sans-serif;font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;stroke-width:0.264583"
+       x="38.742756"
+       y="53.977844"
+       id="text1-1-0"><tspan
+         sodipodi:role="line"
+         id="tspan1-87-23"
+         style="text-align:start;text-anchor:start;stroke-width:0.264583;fill:#ffffff"
+         x="38.742756"
+         y="53.977844">Drive B</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-family:sans-serif;font-size:3.175px;text-align:end;writing-mode:lr-tb;direction:ltr;text-anchor:end;fill:#ffffff;stroke-width:0.264583"
+       x="21.125267"
+       y="53.987144"
+       id="text1-1-0-8"><tspan
+         sodipodi:role="line"
+         id="tspan1-87-23-5"
+         style="text-align:end;text-anchor:end;stroke-width:0.264583;fill:#ffffff"
+         x="21.125267"
+         y="53.987144">Atari ST</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-family:sans-serif;font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;stroke-width:0.264583"
+       x="81.338478"
+       y="53.977844"
+       id="text1-1-0-6"><tspan
+         sodipodi:role="line"
+         id="tspan1-87-23-7"
+         style="text-align:start;text-anchor:start;stroke-width:0.264583;fill:#ffffff"
+         x="81.338478"
+         y="53.977844">Drive A</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-family:sans-serif;font-size:3.175px;text-align:end;writing-mode:lr-tb;direction:ltr;text-anchor:end;fill:#ffffff;stroke-width:0.264583"
+       x="21.331459"
+       y="62.636475"
+       id="text1-1-2"><tspan
+         sodipodi:role="line"
+         id="tspan1-87-9"
+         style="text-align:end;text-anchor:end;stroke-width:0.264583;fill:#ffffff"
+         x="21.331459"
+         y="62.636475">DS1 12</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-family:sans-serif;font-size:3.175px;text-align:end;writing-mode:lr-tb;direction:ltr;text-anchor:end;fill:#ffffff;stroke-width:0.264583"
+       x="21.278748"
+       y="65.833595"
+       id="text1-1-5"><tspan
+         sodipodi:role="line"
+         id="tspan1-87-8"
+         style="text-align:end;text-anchor:end;stroke-width:0.264583;fill:#ffffff"
+         x="21.278748"
+         y="65.833595">DS0 14</tspan></text>
+    <g
+       id="g1"
+       transform="translate(-33.097641,9.3716524)"
+       style="fill:#ffffff">
+      <text
+         xml:space="preserve"
+         style="font-family:sans-serif;font-size:3.175px;text-align:end;writing-mode:lr-tb;direction:ltr;text-anchor:end;fill:#ffffff;stroke-width:0.264583"
+         x="54.394989"
+         y="59.519653"
+         id="text1-1-22"><tspan
+           sodipodi:role="line"
+           id="tspan1-87-7"
+           style="text-align:end;text-anchor:end;stroke-width:0.264583;fill:#ffffff"
+           x="54.394989"
+           y="59.519653">Motor 16</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-family:sans-serif;font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;stroke-width:0.264583"
+       x="81.217552"
+       y="59.502472"
+       id="text1-1-54"><tspan
+         sodipodi:role="line"
+         id="tspan1-87-2"
+         style="stroke-width:0.264583;fill:#ffffff"
+         x="81.217552"
+         y="59.502472">10 -</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-family:sans-serif;font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;stroke-width:0.264583"
+       x="81.199944"
+       y="62.636475"
+       id="text1-1-2-1"><tspan
+         sodipodi:role="line"
+         id="tspan1-87-9-9"
+         style="stroke-width:0.264583;fill:#ffffff"
+         x="81.199944"
+         y="62.636475">12 DS1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-family:sans-serif;font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;stroke-width:0.264583"
+       x="81.164665"
+       y="65.76738"
+       id="text1-1-5-2"><tspan
+         sodipodi:role="line"
+         id="tspan1-87-8-4"
+         style="stroke-width:0.264583;fill:#ffffff"
+         x="81.164665"
+         y="65.76738">14 -</tspan></text>
+    <g
+       id="g2"
+       transform="translate(42.536697,9.3716524)"
+       style="fill:#ffffff">
+      <text
+         xml:space="preserve"
+         style="font-family:sans-serif;font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;stroke-width:0.264583"
+         x="38.696724"
+         y="59.519653"
+         id="text1-1-22-5"><tspan
+           sodipodi:role="line"
+           id="tspan1-87-7-8"
+           style="stroke-width:0.264583;fill:#ffffff"
+           x="38.696724"
+           y="59.519653">16 Motor</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-family:sans-serif;font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;stroke-width:0.264583"
+       x="38.621834"
+       y="59.502472"
+       id="text1-1-54-9"><tspan
+         sodipodi:role="line"
+         id="tspan1-87-2-4"
+         style="stroke-width:0.264583;fill:#ffffff"
+         x="38.621834"
+         y="59.502472">10 -</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-family:sans-serif;font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;stroke-width:0.264583"
+       x="38.604225"
+       y="62.636475"
+       id="text1-1-2-1-7"><tspan
+         sodipodi:role="line"
+         id="tspan1-87-9-9-0"
+         style="stroke-width:0.264583;fill:#ffffff"
+         x="38.604225"
+         y="62.636475">12 DS1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-family:sans-serif;font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;stroke-width:0.264583"
+       x="38.568947"
+       y="65.837471"
+       id="text1-1-5-2-1"><tspan
+         sodipodi:role="line"
+         id="tspan1-87-8-4-1"
+         style="stroke-width:0.264583;fill:#ffffff"
+         x="38.568947"
+         y="65.837471">14 -</tspan></text>
+    <g
+       id="g2-5"
+       transform="translate(-0.05902581,9.3716524)"
+       style="fill:#ffffff">
+      <text
+         xml:space="preserve"
+         style="font-family:sans-serif;font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;stroke-width:0.264583"
+         x="38.696724"
+         y="59.519653"
+         id="text1-1-22-5-2"><tspan
+           sodipodi:role="line"
+           id="tspan1-87-7-8-2"
+           style="stroke-width:0.264583;fill:#ffffff"
+           x="38.696724"
+           y="59.519653">16 Motor</tspan></text>
+    </g>
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:0.499999"
+       d="M 23.744112,58.349054 H 36.803375"
+       id="path2"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:0.499999"
+       d="M 23.744112,61.479181 H 36.803375"
+       id="path2-0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:0.499999"
+       d="M 23.744112,64.679402 H 36.803375"
+       id="path2-3"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:0.499999"
+       d="M 23.744112,67.739438 H 36.803375"
+       id="path2-4"
+       sodipodi:nodetypes="cc" />
+    <rect
+       style="fill:none;stroke:#ffffff;stroke-width:0.2;stroke-dasharray:none"
+       id="rect3"
+       width="0.79009992"
+       height="7.505949"
+       x="34.171818"
+       y="75.70742" />
+    <rect
+       style="fill:none;stroke:#ffffff;stroke-width:0.2;stroke-dasharray:none"
+       id="rect3-3"
+       width="0.79009992"
+       height="7.505949"
+       x="36.877243"
+       y="75.70742" />
+    <rect
+       style="fill:none;stroke:#ffffff;stroke-width:0.2;stroke-dasharray:none"
+       id="rect3-1"
+       width="0.79009992"
+       height="7.505949"
+       x="39.582672"
+       y="75.70742" />
+    <text
+       xml:space="preserve"
+       style="font-family:sans-serif;font-size:3.175px;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ffffff;stroke-width:0.264583"
+       x="37.221909"
+       y="88.122688"
+       id="text1-1-0-3"><tspan
+         sodipodi:role="line"
+         id="tspan1-87-23-2"
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583;fill:#ffffff"
+         x="37.221909"
+         y="88.122688">Pin 10: Motor</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-dasharray:none"
+       id="rect4"
+       width="4.518384"
+       height="4.4690027"
+       x="33.660389"
+       y="76.022423" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-dasharray:none"
+       id="rect4-3"
+       width="4.518384"
+       height="4.4690027"
+       x="61.54203"
+       y="76.022423" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-dasharray:none"
+       id="rect5"
+       width="8.3207397"
+       height="2.4690621"
+       x="33.111923"
+       y="81.108696" />
+    <rect
+       style="fill:none;stroke:#ffffff;stroke-width:0.2;stroke-dasharray:none"
+       id="rect3-36"
+       width="0.79009992"
+       height="7.505949"
+       x="59.348034"
+       y="75.70742" />
+    <rect
+       style="fill:none;stroke:#ffffff;stroke-width:0.2;stroke-dasharray:none"
+       id="rect3-3-9"
+       width="0.79009992"
+       height="7.505949"
+       x="62.053459"
+       y="75.70742" />
+    <rect
+       style="fill:none;stroke:#ffffff;stroke-width:0.2;stroke-dasharray:none"
+       id="rect3-1-0"
+       width="0.79009992"
+       height="7.505949"
+       x="64.758888"
+       y="75.70742" />
+    <text
+       xml:space="preserve"
+       style="font-family:sans-serif;font-size:3.175px;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ffffff;stroke-width:0.264583"
+       x="62.398125"
+       y="88.122688"
+       id="text1-1-0-3-4"><tspan
+         sodipodi:role="line"
+         id="tspan1-87-23-2-0"
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583;fill:#ffffff"
+         x="62.398125"
+         y="88.122688">Pin 14: DS0</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-dasharray:none"
+       id="rect5-4"
+       width="8.3207397"
+       height="2.4690621"
+       x="58.288139"
+       y="81.108696" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
+       d="m 54.53952,58.349054 h 5.219728 l 9.338871,9.338871 h 10.504959"
+       id="path1"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:0.5;stroke-linecap:butt;stroke-dasharray:none;stroke-opacity:1"
+       d="m 54.53952,67.687925 h 5.219728 l 9.338871,-9.338871 h 10.504959"
+       id="path1-82"
+       sodipodi:nodetypes="cccc" />
+    <path
+       id="path1-82-9"
+       style="fill:none;stroke:#ffffff;stroke-width:0.5;stroke-linecap:butt;stroke-dasharray:none;stroke-opacity:1"
+       d="m 54.53952,64.679402 h 5.219728 l 9.338871,-3.200221 h 10.504959"
+       sodipodi:nodetypes="cccc" />
+    <path
+       id="path1-82-9-5"
+       style="fill:none;stroke:#ffffff;stroke-width:0.5;stroke-linecap:butt;stroke-dasharray:none;stroke-opacity:1"
+       d="m 54.53952,61.479181 h 5.219728 l 9.338871,3.200221 h 10.504959"
+       sodipodi:nodetypes="cccc" />
+  </g>
+</svg>
