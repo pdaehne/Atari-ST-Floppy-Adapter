@@ -7,8 +7,8 @@
    viewBox="0 0 97.182281 44.64064"
    version="1.1"
    id="svg1"
-   inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
-   sodipodi:docname="twisted_cable_one_floppy.svg"
+   inkscape:version="1.4.2 (ebf0e940, 2025-05-08)"
+   sodipodi:docname="twisted_cable_one_floppy.light.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -23,13 +23,13 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="2.6789862"
-     inkscape:cx="169.28045"
-     inkscape:cy="74.095193"
+     inkscape:zoom="1.3394931"
+     inkscape:cx="169.84037"
+     inkscape:cy="74.281831"
      inkscape:window-width="1680"
      inkscape:window-height="888"
      inkscape:window-x="80"
-     inkscape:window-y="118"
+     inkscape:window-y="90"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1" />
   <defs
@@ -40,7 +40,7 @@
      id="layer1"
      transform="translate(-2.8354745,-47.583504)">
     <rect
-       style="fill:#c8c8c8;fill-opacity:1;stroke:none;stroke-width:0.2"
+       style="fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:0.2"
        id="rect1"
        width="97.182281"
        height="44.64064"
