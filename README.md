@@ -119,7 +119,7 @@ is nearly impossible.
 To solder the box header to the PCB, I again recommend to use an adhesive like
 Blu Tack to stick it to the PCB. I also recommend to stick the floppy cable into
 the socket, because it happens easily that the plastic of the socket melts and
-the pins start to move when you apply to much heat while soldering, and this
+the pins start to move when you apply too much heat while soldering, and this
 might ruin the whole adapter!
 
 [![Soldering the Box Header](images/Soldering_Box_Header.preview.jpg)](images/Soldering_Box_Header.jpg?raw=1)
