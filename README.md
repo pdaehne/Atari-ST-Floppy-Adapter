@@ -6,13 +6,13 @@
 
 This repository contains the KiCad project and Gerber files for an adapter that
 converts the Atari ST external 14 pin floppy connector to a standard 34 pin IDC
-box header. The 14 pin flopy connectors are out of production for a long time
+box header. The 14 pin floppy connectors are out of production for a long time
 and are extremely hard to get hold of and expensive nowadays. This adapter is a
 cheap workaround.
 
-This Floppy Adapter is designed to be used in combination with my
+This floppy adapter is designed to be used in combination with my
 [DSUB-19 Adapter for the Atari DMA/Harddisk port](https://github.com/pdaehne/DSUB19-Adapter),
-they fit nicely next to each other. I also tried not to hide other connectors,
+they fit nicely next to each other. I also tried not to block other connectors,
 but I only have an Atari 1040 STF to check that, so your mileage might vary.
 Please check the situation on your Atari before ordering the PCBs!
 
@@ -44,10 +44,7 @@ page. I recommend to use the standard PCB thickness of 1.6mm and HASL finishing.
 * __14x Solder Pins__.
 
   These pins are used to recreate the 14 pin floppy plug. They are Mill-Max
-  4123-0-00-15-00-00-08-0. You can get these e.g. from
-  [DigiKey](https://www.digikey.com/en/products/detail/mill-max-manufacturing-corp/4123-0-00-15-00-00-08-0/10063633)
-  or
-  [Mouser](https://www.mouser.com/ProductDetail/Mill-Max/4123-0-00-15-00-00-08-0?qs=h6V4JsTaLXe%252BQYANhNcpOA%3D%3D).
+  4123-0-00-15-00-00-08-0. You can get these e.g. from DigiKey or Mouser.
 
 * __1x 2x17 Pin Straight Male Box Header 2.54mm pitch__.
 
