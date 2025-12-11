@@ -18,6 +18,11 @@ Please check the situation on your Atari before ordering the PCBs!
 
 [![D-SUB 19 Adapter](images/DSUB19_Adapter.preview.jpg)](images/DSUB19_Adapter.jpg?raw=1)
 
+When you are still looking for a way to provide power to your external floppy
+drive or Gotek floppy emulator, you might be interested in my
+[Atari ST 5V Cartridge](https://github.com/pdaehne/Atari-ST-5V-Cartridge), which
+utilizes the cartridge port of the Atari ST to provide 5V to external devices.
+
 ## Acknowlegements
 
 This project is based on the
